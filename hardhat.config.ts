@@ -9,6 +9,8 @@ import "solidity-coverage";
 import "./tasks/transfer";
 import "./tasks/transferFrom";
 import "./tasks/approve";
+import "./tasks/mint";
+import "./tasks/burn";
 
 dotenv.config();
 
